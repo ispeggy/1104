@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="tw.edu.nfu.40741433" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<!-- versionCode is optional and Android only -->
+  <name>亞洲旅遊簡介</name>
+  <description>
+      An example for phonegap build APP from yflan@nfu.edu.tw.
+  </description>
+  <author href="" email="40741433@gm.nfu.edu.tw">
+      Yi-Pei Zhu
+  </author>
+  <content src="index.html" />
+  <platform name="android">
+    <icon src="res/icon.png" />
+  </platform>
+</widget>
